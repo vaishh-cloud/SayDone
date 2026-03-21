@@ -1,0 +1,19 @@
+.voice {
+  padding: 20px;
+}
+
+.button {
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: none;
+  background-color: #3b82f6;
+  color: white;
+  cursor: pointer;
+}
+
+.output {
+  margin-top: 10px;
+  background-color: #1e293b;
+  padding: 10px;
+  border-radius: 8px;
+}

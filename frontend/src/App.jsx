@@ -1,6 +1,5 @@
-import React from "react";
-import Dashboard from "./components/Dashboard";
-import VoiceInput from "./components/VoiceInput";
+import Dashboard from "./components/Dashboard/Dashboard";
+import VoiceInput from "./components/VoiceInput/VoiceInput";
 
 const App = () => {
   return (

@@ -11,7 +11,7 @@ export default function LandingPage() {
         </div>
         
         <div className="nav-links">
-          <Link to="/voice" className="nav-btn primary">
+          <Link to="/login" className="nav-btn primary">
             Start Voice Input →
           </Link>
         </div>
@@ -47,10 +47,10 @@ export default function LandingPage() {
         </div>
 
         <div className="cta-section">
-          <Link to="/voice" className="big-cta-btn">
+          <Link to="/login" className="big-cta-btn">
             Try Voice Input Now
           </Link>
-          <p className="small-note">No login required for first use</p>
+          {/* <p className="small-note">No login required for first use</p> */}
         </div>
       </main>
 

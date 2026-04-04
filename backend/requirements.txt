@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+bcrypt==4.2.1
+python-jose[cryptography]
